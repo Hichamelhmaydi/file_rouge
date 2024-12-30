@@ -60,8 +60,6 @@ Sauvegardes régulières : Préserver les données en cas de panne ou perte.
 Intégration avec des API tierces :
 API météo pour afficher les conditions climatiques des destinations.
 API Google Maps pour les itinéraires.
-
-
 Fonction : Répartition des Dépenses entre les Membres du Groupe
 Cette fonctionnalité permet de suivre et de répartir équitablement les dépenses d'un groupe de voyageurs.
 
